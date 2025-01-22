@@ -1,0 +1,1 @@
+# Waste-Management-using-CNN-model
